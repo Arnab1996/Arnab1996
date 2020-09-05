@@ -14,13 +14,13 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
 
 <p float="left">
   <a href="https://www.java.com/en/" target="_blank" >
-    <img src="assets/java.png"  height="90" />
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/java.png"  height="90" />
   </a>
     <a href="https://www.python.org/" target="_blank" >
-    <img src="assets/python.png"  height="80" />
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/python.png"  height="80" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kotlinlang.org/" target="_blank" >
-    <img src="assets/kotlin.svg"  height="75" />
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/kotlin.svg"  height="75" />
   </a>
 </p>
 <br>
@@ -38,13 +38,13 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/Arnab1996/Arnab1996/master/assets/cicd.gif"  height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://www.ansible.com/" target="_blank" >
-    <img src="assets/ans.png"  height="75" />
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/ans.png"  height="75" />
   </a>
    <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Arnab1996/Arnab1996/master/assets/helm.gif"  height="75" />
   </a>
    <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="assets/jen.png"  height="75" />
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/jen.png"  height="75" />
   </a>
 </p>
 <br>
@@ -56,10 +56,10 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/Arnab1996/Arnab1996/master/assets/html-css-js.png" height="70" />&nbsp;&nbsp;
   </a>
     <a href="https://nodejs.org/en/" target="_blank" >
-    <img src="assets/node.png" height="70" />&nbsp;&nbsp;
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/node.png" height="70" />&nbsp;&nbsp;
   </a>
     <a href="https://reactjs.org/" target="_blank" >
-    <img src="assets/reac.png" height="70" />
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/reac.png" height="70" />
   </a>
  </p>
 <br>
@@ -68,7 +68,7 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
   
  <p float="left">
   <a href="https://azure.microsoft.com/en-in/services/app-service/web/" target="_blank" >
-    <img src="assets/azure.png"  height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/azure.png"  height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Arnab1996/Arnab1996/master/assets/aws.gif"  height="75" />
