@@ -1,12 +1,17 @@
-### Hi there 👋
+## [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Arnab Saha](https://arnab1996.github.io/)
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 <!--
 **Arnab1996/Arnab1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Arnab](https://arnab1996.github.io/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+I am [Arnab](https://arnab1996.github.io/), a passionate and creative developer
+from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
 I mostly work with Java and Cloud-Native technologies.☁️🚀
+
+![img.png](assets/img.png)
 
 <br>
 
@@ -65,7 +70,7 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
 <br>
 
 ### CSPs
-  
+
  <p float="left">
   <a href="https://azure.microsoft.com/en-in/services/app-service/web/" target="_blank" >
     <img src="https://github.com/Arnab1996/Arnab1996/blob/master/assets/azure.png"  height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,7 +82,7 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
 <br>
 
 ### Monitoring
-  
+
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Arnab1996/Arnab1996/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
@@ -89,7 +94,7 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
 <br>
 
 ### Databases
-  
+
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/Arnab1996/Arnab1996/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
@@ -101,8 +106,23 @@ I mostly work with Java and Cloud-Native technologies.☁️🚀
 </p>
 <br>
 
-### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://arnab1996.github.io/) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/arnabsaha1996/) 👨🏻‍💻 <br>
-  ⦿ Shoot Me an [Email](mailto:arnabthedragon@gmail.com) 💌 <br>
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arnab1996&show_icons=true&theme=gotham" alt="Arnab Saha | Stats" />
+
+</details>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Arnab1996}/count.svg)
+
+### 📫 How to reach me?
+
+⦿ Visit my [Website](https://arnab1996.github.io/) 🌐 <br>
+⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/arnabsaha1996/) 👨🏻‍💻 <br>
+⦿ Shoot Me an [Email](mailto:arnabthedragon@gmail.com) 💌 <br>
+
+[linkedin]: https://www.linkedin.com/in/arnabsaha1996/
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
